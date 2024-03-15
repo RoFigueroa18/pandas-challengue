@@ -12,7 +12,11 @@ Math and Reading Breakdown: Average out the math and reading scores for each gra
 
 Spending Showdown: Sort schools into groups based on how much they spend per student, then see how their spending relates to their performance. Look at metrics like average scores in math and reading, and the percentage of students passing each subject and overall. Organize this data into a nifty DataFrame.
 
-Size Matters: Divide schools into small, medium, and large based on how many students they have, and see how their performance stacks up. Do this similar to the spending breakdown, but based on size instead.
+These rows present a summary of average math and reading scores, as well as the percentages of students passing math, reading, and both subjects combined, categorized by spending ranges per student. The data suggests that schools with lower spending per student tend to have higher average scores and passing rates compared to schools with higher spending per student.
+
+Size Matters: Divide schools into small, medium, and large based on how many students they have, and see how their performance stacks up. Do this similar to the spending breakdown, but based on size instead. 
+
+These rows provide a summary of the average math and reading scores, along with the percentages of students passing math, reading, and both subjects combined, categorized by school size. The data shows a trend where smaller schools tend to have higher average scores and passing rates compared to larger schools.
 
 School Type Showdown: Lastly, compare charter and district schools to see how they're doing. Follow the same pattern as before, but this time, based on school type.
 
